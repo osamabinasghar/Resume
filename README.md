@@ -1,1 +1,1 @@
-#Resume Template React
+#Resume Template NEXT JS
